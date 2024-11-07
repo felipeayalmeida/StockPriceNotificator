@@ -1,1 +1,13 @@
+# Diretórios de compilação
+bin/
+obj/
+
+# Cache do Visual Studio
 .vs/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.pid
+*.env
+
