@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockPriceNotificator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1053406870e3eb3d8ca0c96658cab3d49817ee1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbdfa895c069a1397efacb16ecaaa8483e10eee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockPriceNotificator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockPriceNotificator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
