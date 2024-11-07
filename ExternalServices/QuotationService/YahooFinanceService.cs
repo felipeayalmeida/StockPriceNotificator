@@ -25,16 +25,18 @@ namespace StockPriceNotificator.ExternalServices.QuotationService
                     client.DefaultRequestHeaders.Add("x-rapidapi-host", "yahoo-finance15.p.rapidapi.com");
 
                     var response = await client.GetStringAsync(serviceUrl);
+
                     if (string.IsNullOrEmpty(response))
                         throw new Exception("Something went wrong with the Yahoo response.");
 
                     var result = JsonConvert.DeserializeObject<YahooResponseModel>(response);
-                    var lastPriceString = result.Body.PrimaryData.LastSalePrice.Replace("$", "");
+                    var lastPriceString = result?.Body.PrimaryData.LastSalePrice.Replace("$", "");
 
                     if (!decimal.TryParse(lastPriceString, NumberStyles.Number, CultureInfo.InvariantCulture, out var lastPrice))
                     {
                         throw new FormatException("The price string could not be converted to a decimal.");
                     }
+
                     return lastPrice;
                 }
             }
