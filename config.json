@@ -1,5 +1,8 @@
 {
   "YahooApiKey": "Insert-Your-API-Key-Here",
-  "YahooServiceUrl": "https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?type=STOCKS&ticker="
-
+  "YahooServiceUrl": "https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?type=STOCKS&ticker=",
+  "SMTPServer": "smtp.gmail.com",
+  "SMTPPort": 25,
+  "SMTPUsername": "f4064317@gmail.com",
+  "SMTPPassword": "txvl eaad xoyw hzkr"
 }
