@@ -1,0 +1,15 @@
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\bin\Debug\net8.0\StockPriceNotificator.exe
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\bin\Debug\net8.0\StockPriceNotificator.deps.json
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\bin\Debug\net8.0\StockPriceNotificator.runtimeconfig.json
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\bin\Debug\net8.0\StockPriceNotificator.dll
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\bin\Debug\net8.0\StockPriceNotificator.pdb
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.AssemblyInfoInputs.cache
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.AssemblyInfo.cs
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.csproj.CoreCompileInputs.cache
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.sourcelink.json
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.dll
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\refint\StockPriceNotificator.dll
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.pdb
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\StockPriceNotificator.genruntimeconfig.cache
+C:\Users\joaol\Desktop\tiao\StockPriceNotificator\StockPriceNotificator\obj\Debug\net8.0\ref\StockPriceNotificator.dll

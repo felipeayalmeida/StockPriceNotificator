@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ExternalServices\EmailService\" />
+    <Folder Include="ExternalServices\QuotationService\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
