@@ -9,8 +9,16 @@
 
   <ItemGroup>
     <Folder Include="ExternalServices\EmailService\" />
-    <Folder Include="ExternalServices\QuotationService\" />
-    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="config.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

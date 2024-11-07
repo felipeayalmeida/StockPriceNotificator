@@ -1,0 +1,5 @@
+{
+  "YahooApiKey": "Insert-Your-API-Key-Here",
+  "YahooServiceUrl": "https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?type=STOCKS&ticker="
+
+}
