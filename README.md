@@ -7,5 +7,6 @@ Help Guide:
 
        ./StockPriceNotificator.exe {AssetAbbreviation[string]} {SellPrice[decimal]} {BuyPrice[decimal]}
 
-Abbreviation: New York Stock Exchange (NYSE)
-Currency: USD 
+Inputs:
+- Abbreviation: New York Stock Exchange (NYSE)
+- Currency: USD 
