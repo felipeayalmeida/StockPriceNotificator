@@ -29,6 +29,8 @@ namespace StockPriceNotificator.Application
                 Console.WriteLine($"Current price of {_asset}: {currentPrice}");
 
                 var order = BuildEmailOrder(currentPrice);
+                if (string.IsNullOrEmpty(order))
+                    return;
 
                 var emailService = new SMTPService(_config, _asset);
 
