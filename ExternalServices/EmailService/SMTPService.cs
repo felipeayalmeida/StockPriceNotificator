@@ -1,9 +1,6 @@
 ﻿using StockPriceNotificator.Models;
-using System.Net.Mail;
 using System.Net;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System;
+using System.Net.Mail;
 
 namespace StockPriceNotificator.ExternalServices.EmailService
 {
