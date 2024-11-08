@@ -11,3 +11,9 @@ Help Guide:
 Inputs:
 - Abbreviation: New York Stock Exchange (NYSE)
 - Currency: USD 
+
+
+Possible new features:
+1. Allow list of emails to receive the alert email.
+2. Configure a Kafka Producer to be able to consume the topic.
+3. Interface + Web API with topic Consumer.
