@@ -15,5 +15,5 @@ Inputs:
 
 Possible new features:
 1. Allow list of emails to receive the alert email.
-2. Configure a Kafka Producer to be able to consume the topic.
+2. Configure a Kafka Producer to be able to produce events on topics.
 3. Interface + Web API with topic Consumer.
